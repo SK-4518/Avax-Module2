@@ -47,11 +47,6 @@ Using the Hardhat Ethereum development environment, we will design, execute, com
 ![image](https://github.com/SK-4518/Avax-Module2/assets/136696857/fab9b799-7485-4c97-b844-d33fffb41695)
 
 
-# Code Walkthrough Video
-
-https://www.loom.com/share/99fb3442844a435d9b68f317193f4e2e?sid=0a38bc2d-7278-4817-8acd-4a8754b7e5ab
-
-
 # Conclusion
 
 This learning experience has finally come to a close. Using the hardhat Ethereum development environment, we explored how to build, run, compile, and deploy smart contracts in the lesson. I hope this helps you begin your quest to create awesome things!
